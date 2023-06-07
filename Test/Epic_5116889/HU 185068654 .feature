@@ -6,6 +6,6 @@ Y visualiza su ubicación en el mapa de la ciudad de Lima.
 Cuando el usuario visualiza dónde se encuentra ubicado.  
 Entonces el usuario podrá ver las mejores rutas que puede escoger para llegar hacia su destino sano y salvo. 
 
-Example:
+Examples:
 |Nombre del Distrito| |Nombre de la calle|
 
